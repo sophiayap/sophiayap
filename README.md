@@ -8,3 +8,6 @@
 - 👯 I’m interested in Psychology and Public Health and working with interesting datasets.
 
 I love building things, I will let the joy speak for itself!
+
+
+Acknowledgments: some project were developed with help from YouTube tutorials.
